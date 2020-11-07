@@ -7,7 +7,10 @@
     <h3>Follow Me for more updates</h3>
     <ul>
       <li>
-        <a href="http://faceboo.com/aenumair" target="_blank" rel="noopener"
+        <a
+          href="https://web.facebook.com/AenUmair/"
+          target="_blank"
+          rel="noopener"
           >Facebook</a
         >
       </li>
